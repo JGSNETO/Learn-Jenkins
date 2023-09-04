@@ -48,4 +48,6 @@ sudo systemctl status jenkins
 ```
 - Accessing jenkins
 ```
-192.168.1.4:8080
+http://172.20.10.9:8080/
+```
+
