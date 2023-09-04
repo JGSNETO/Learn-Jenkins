@@ -46,3 +46,6 @@ sudo systemctl start jenkins
 ```
 sudo systemctl status jenkins
 ```
+- Accessing jenkins
+```
+192.168.1.4:8080
